@@ -6,4 +6,6 @@
 - [ ] Screenshot taken
 ### Extra Notes
 This line shows a third commit on main by Coding Specialists.
+## Feature Branch Update
+This section was added on the feature branch by Coding Specialists to demonstrate branching.
 
